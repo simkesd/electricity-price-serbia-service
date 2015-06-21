@@ -1,0 +1,12 @@
+{
+  "name"         : "struja-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "server.js",
+  "author"       : "Milos Simic",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
